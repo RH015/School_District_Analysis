@@ -22,7 +22,7 @@ Figure 2 shows how the only change is in the ninth grade at Thomas High School.
 
 However, where we see a greater change in math and reading scores is in Scores by school size, where performance drops.
 
-##  figure 2 ##
+##  figure 3 ##
 **![This is an image](https://github.com/RH015/School_District_Analysis/blob/main/Scores%20by%20school%20size.png)
 
 However, where we see a greater change in math and reading scores is in Scores by school size, where performance drops.
