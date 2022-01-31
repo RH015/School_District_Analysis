@@ -25,6 +25,5 @@ However, where we see a greater change in math and reading scores is in Scores b
 ##  figure 3 ##
 **![This is an image](https://github.com/RH015/School_District_Analysis/blob/main/Scores%20by%20school%20size.png)
 
-However, where we see a greater change in math and reading scores is in Scores by school size, where performance drops.
-
+Finally, the changes observed were in the same proportion as the change, so they did not drastically affect the global averages, but they did affect the size of the school.
 
